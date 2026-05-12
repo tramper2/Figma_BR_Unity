@@ -15,9 +15,9 @@ Figma 문서, 컴포넌트, 자산, 프로토타입을 Unity로 쉽게 가져올
 - **최신 버전**: 1.0.9
 - Unity 6.3 호환성 업그레이드가 진행 중입니다. [마이그레이션 가이드](Docs/Unity6MigrationGuide.md)를 참고하세요.
 
-**경고** 이것은 매우 초기 릴리즈이므로 누락된 부분이 많고 버그가 있을 수 있습니다. PR을 보내주시거나 🐤[Twitter](https://twitter.com/simonoliveruk) 또는 🐘[Mastodon](https://mastodon.gamedev.place/@simonoliver)으로 메시지를 보내주세요.
+**경고** 이것은 @simonoliver의 작업을 한글화및 업데이트 작업중입니다 버그가 있을 수 있습니다. PR을 보내주시거나 🐤[Twitter](https://twitter.com/simonoliveruk) 또는 🐘[Mastodon](https://mastodon.gamedev.place/@simonoliver)으로 메시지를 보내주세요.
 
-현재 **Unity 2021.3** 이상만 지원합니다! (다른 버전에서는 테스트되지 않음)
+현재 **Unity 2021.3** 이상만 지원합니다! (6.3에서 테스트 중 )
 
 ---
 
@@ -205,7 +205,7 @@ Personal Access Token을 변경하려면 **Figma Bridge → Set Personal Access 
 
 ---
 
-## 현재 지원되지 않는 기능
+## 현재 지원되지 않는 기능(6.3에서 계속 수정할 예정)
 
 * 사용자 정의 자산 저장 위치
 * 이미지 트윽(노출, 대비)
